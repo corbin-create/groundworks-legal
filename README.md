@@ -12,10 +12,10 @@ a privacy policy / EULA on file).
 
 ## Final URLs
 
-Served from `legal.groundworkscommand.com` via GitHub Pages + Wix DNS CNAME:
+Served from `legal.groundworkcommand.com` via GitHub Pages + Wix DNS CNAME:
 
-- Privacy Policy: `https://legal.groundworkscommand.com/privacy.html`
-- EULA / ToS:    `https://legal.groundworkscommand.com/terms.html`
+- Privacy Policy: `https://legal.groundworkcommand.com/privacy.html`
+- EULA / ToS:    `https://legal.groundworkcommand.com/terms.html`
 
 The `CNAME` file in this repo tells GitHub Pages to serve under this custom domain.
 
